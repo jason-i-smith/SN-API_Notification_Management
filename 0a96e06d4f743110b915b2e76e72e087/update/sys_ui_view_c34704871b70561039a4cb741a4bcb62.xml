@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>can_edit_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>jsmith</sys_created_by>
+        <sys_created_on>2024-09-26 15:39:35</sys_created_on>
+        <sys_id>c34704871b70561039a4cb741a4bcb62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can Edit View</sys_name>
+        <sys_package display_value="API Notification Management" source="sn_api_notif_mgmt">0a96e06d4f743110b915b2e76e72e087</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="API Notification Management">0a96e06d4f743110b915b2e76e72e087</sys_scope>
+        <sys_update_name>sys_ui_view_c34704871b70561039a4cb741a4bcb62</sys_update_name>
+        <sys_updated_by>jsmith</sys_updated_by>
+        <sys_updated_on>2024-09-26 15:39:35</sys_updated_on>
+        <title>Can Edit View</title>
+        <user/>
+    </sys_ui_view>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="API Notification Management">0a96e06d4f743110b915b2e76e72e087</claim_owner_scope>
+        <claim_timestamp>1922f17ed110000001</claim_timestamp>
+        <metadata_update_name>sys_ui_view_c34704871b70561039a4cb741a4bcb62</metadata_update_name>
+        <previous_claim_app_version>2.1.0</previous_claim_app_version>
+        <previous_claim_name>API Notification Management</previous_claim_name>
+        <previous_claim_scope>0a96e06d4f743110b915b2e76e72e087</previous_claim_scope>
+        <sys_created_by>zjoachim</sys_created_by>
+        <sys_created_on>2024-09-26 16:09:10</sys_created_on>
+        <sys_id>141ec0071bb0561039a4cb741a4bcb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>zjoachim</sys_updated_by>
+        <sys_updated_on>2024-09-26 16:09:10</sys_updated_on>
+    </sys_claim>
+</record_update>
